@@ -399,7 +399,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -42.100006, y: -38.8}
+  m_AnchoredPosition: {x: 0, y: -34.8}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &834402716
@@ -622,7 +622,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Button
+  m_Text: 'Aceptar
+
+'
 --- !u!222 &873806646
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -668,7 +670,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -42.1, y: 24.2}
+  m_AnchoredPosition: {x: 0.0000076294, y: 32.1}
   m_SizeDelta: {x: 160, y: 31.083237}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1177311056
@@ -802,7 +804,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.031540185, y: 0}
   m_AnchorMax: {x: 1, y: 0.9514194}
-  m_AnchoredPosition: {x: -123.7, y: -167.4}
+  m_AnchoredPosition: {x: -142.6, y: -164.2}
   m_SizeDelta: {x: -416.9765, y: -425.30817}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1267335016
@@ -872,10 +874,10 @@ RectTransform:
   m_Father: {fileID: 1177311055}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 0.096515045}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -0.5}
-  m_SizeDelta: {x: -20, y: -13}
+  m_AnchoredPosition: {x: 8.26, y: -2}
+  m_SizeDelta: {x: -3.4717712, y: -10}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1321780170
 MonoBehaviour:
@@ -908,7 +910,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Enter text...
+  m_Text: "Ingrese su contrase\xF1a"
 --- !u!222 &1321780171
 CanvasRenderer:
   m_ObjectHideFlags: 0
